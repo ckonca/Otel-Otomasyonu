@@ -1,0 +1,80 @@
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.AnaMenu.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Giris.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.KayitGirisi.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.MusteriAra.resources
+E:\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+E:\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+E:\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.AnaMenu.resources
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Giris.resources
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.KayitGirisi.resources
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.MusteriAra.resources
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.AnaMenu.resources
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Giris.resources
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.KayitGirisi.resources
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.MusteriAra.resources
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Cemile\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.OdaListele.resources
+G:\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+G:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+G:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.AnaMenu.resources
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Giris.resources
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.KayitGirisi.resources
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.MusteriAra.resources
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.OdaListele.resources
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+E:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.OdaListele.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.AnaMenu.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.Giris.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.KayitGirisi.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.MusteriAra.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.OdaListele.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.AnaMenu.resources
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.Giris.resources
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.KayitGirisi.resources
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.MusteriAra.resources
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.OdaListele.resources
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\Cemile\Desktop\OtelOtomasyonn\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
