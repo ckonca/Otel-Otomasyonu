@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Form1.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Login.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\Administrator\Desktop\c# windows-form\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
